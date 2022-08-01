@@ -1,7 +1,6 @@
 # Hi, this is Vasan
 
-- I am currently pursuing my engineering degree on Artificial Intelligence and Data Science
-- I’m currently learning Flask and Node.Js
-- I love learning new things 
-
+- I'm currently pursuing my engineering degree on Artificial Intelligence and Data Science
+- Currently learning Node.Js
+- Skills: C, C++, Python, HTML, CSS, Javascript, Flask(Python Framework) 
 
