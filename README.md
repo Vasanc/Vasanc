@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vasan C</h1>
-<h3 align="center">A passionate Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasanc&label=Profile%20views&color=0e75b6&style=flat" alt="vasanc" /> </p>
 
